@@ -2,6 +2,7 @@
 This project provides a simple web application that allows users to search for countries based on a currency code. It utilizes the Rest Countries API to fetch data about countries and their associated currencies.
 
 How to Use
+
 Clone or download this repository to your local machine.
 Open the index.html file in a web browser.
 Enter a currency code in the input field provided and click the search button.
